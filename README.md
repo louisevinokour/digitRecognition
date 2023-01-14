@@ -1,1 +1,1 @@
-# digitRecognition
+This project was coded in Python, using the Tensorflow and Keras libraries. I developed a deep convolutional neural network (CNN) for handwritten digit classification trained with the MNIST data set. This CNN can recognize handwritten digits with accuracy over 99%.
